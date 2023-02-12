@@ -33,3 +33,10 @@ Ed_Tarea_3_git
 |Abrahan|[arodmor789](https://github.com/arodmod789)|
 |Antonio|[anuncar621508](https://github.com/anuncar621508)|
 |David Gal|[Dagalca](https://github.com/Dagalca|)|
+### Crear Rama y añadir fichero
+1. git checkout - b v0.2
+2. touch 2.txt
+3. git add 2.txt
+4. gedit README.md
+5. git commit -am "Añadir fichero 2.txt y rama v0.2"
+6. git push
