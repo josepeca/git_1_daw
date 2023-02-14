@@ -72,4 +72,5 @@ Ed_Tarea_3_git
 5. git push
 ### Listado
 1. git log --graph --all --oneline
-2. git commit -am "Añadir Adios al archivo 1.txt"
+2. git add README.md
+2. git commit -am "Añadir comandos usados"
